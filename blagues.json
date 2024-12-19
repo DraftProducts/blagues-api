@@ -4059,7 +4059,7 @@
     "id": 680,
     "type": "global",
     "joke": "Qui a inventé le sous-marin ?",
-    "answer": "Les Français en essayant de construire un bateau !"
+    "answer": "Les Belges en essayant de construire un bateau !"
   },
   {
     "id": 681,
@@ -7407,7 +7407,7 @@
     "id": 1241,
     "type": "dark",
     "joke": "Vous savez la différence entre un Juif et une pizza ?",
-    "answer": "Après cuisson, la pizza colle au plat alors que le jJuif part en un coup de balai !"
+    "answer": "Après cuisson, la pizza colle au plat alors que le Juif part en un coup de balai !"
   },
   {
     "id": 1242,
@@ -10465,9 +10465,9 @@
   },
   {
     "id": 1761,
-    "type": "global",
-    "joke": "Qu'est-ce qui est pareil entre une bière congelée, une pizza carbonisées et une femme enceinte ?",
-    "answer": "Un gars la sortie trop tard."
+    "type": "beauf",
+    "joke": "Quel est le point commun entre une bière congelée, une pizza carbonisées et une femme enceinte ?",
+    "answer": "Pour chaque cas c'est un homme qui la sortie trop tard."
   },
   {
     "id": 1762,
@@ -12957,7 +12957,7 @@
     "id": 2199,
     "type": "dark",
     "joke": "Quel est le point commun entre les petites filles et les bouteilles de vin ?",
-    "answer": "Les meilleures ont douze d'âge et sont dans ma cave."
+    "answer": "Les meilleures ont douze ans d'âge et sont dans ma cave."
   },
   {
     "id": 2200,
@@ -15340,5 +15340,479 @@
     "type": "dark",
     "joke": "Quel est le chiffre préféré des arabes ?",
     "answer": "C'est 4. (C4)"
+  },
+  {
+    "id": 2600,
+    "type": "dev",
+    "joke": "ANSI <FONT> <FONT> <FONT>",
+    "answer": "<LI> <P> <TITLE> Mar I/O .NET"
+  },
+  {
+    "id": 2601,
+    "type": "dark",
+    "joke": "Quel est le point commun entre une vache et un SS ?",
+    "answer": "Ils regardent tous les deux le train passer."
+  },
+  {
+    "id": 2602,
+    "type": "dark",
+    "joke": "Quelle est la différence entre un Juif et une pizza ?",
+    "answer": "la pizza ne crie pas quand on la met au four."
+  },
+  {
+    "id": 2603,
+    "type": "dark",
+    "joke": "Quelle est la différence entre un spermatozoïde et un migrant ?",
+    "answer": "Ils viennent tous les deux par millions mais un seul trouve du travail."
+  },
+  {
+    "id": 2604,
+    "type": "dark",
+    "joke": "Quelle est la différence entre un hibou et un arabe ?",
+    "answer": "Y'en a pas. Ils dorment le jour et volent la nuit."
+  },
+  {
+    "id": 2605,
+    "type": "dark",
+    "joke": "Quelle est la différence entre un spermatozoïde et un migrant ?",
+    "answer": "Ils viennent tous les 2 par millions mais un seul trouve du travail."
+  },
+  {
+    "id": 2606,
+    "type": "beauf",
+    "joke": "Quel est le point commun entre une femme et une grenade ?",
+    "answer": "Lorsque tu leur enlèves l'anneau, elles te prennent toute les deux la moitié de la maison."
+  },
+  {
+    "id": 2607,
+    "type": "dark",
+    "joke": "Qu'est-ce qui court plus vite qu'un arabe avec une télé ?",
+    "answer": "Son petit frère avec la télécommande !"
+  },
+  {
+    "id": 2608,
+    "type": "dark",
+    "joke": "Quelle est la différence entre un hibou et un arabe ?",
+    "answer": "Y'en a pas. Ils dorment le jour et volent la nuit."
+  },
+  {
+    "id": 2609,
+    "type": "blondes",
+    "joke": "Que fait une blonde dont le tupperware est cassé ?",
+    "answer": "Elle l’emmène voir le chirurgien plastique."
+  },
+  {
+    "id": 2610,
+    "type": "global",
+    "joke": "Un pneu va chez son médecin…",
+    "answer": "« Docteur, je me sens crevé… »"
+  },
+  {
+    "id": 2611,
+    "type": "dark",
+    "joke": "J’ai une blague sur les arabes !",
+    "answer": "Mais ils me l’ont volé…"
+  },
+  {
+    "id": 2612,
+    "type": "global",
+    "joke": "Où va-t-on déposer plinthe ?",
+    "answer": "Au parquet judiciaire"
+  },
+  {
+    "id": 2613,
+    "type": "dark",
+    "joke": "Qu'est-ce qu'un collabo ?",
+    "answer": "Un français qui a choisi son camp et rempli ceux des Allemands."
+  },
+  {
+    "id": 2614,
+    "type": "dark",
+    "joke": "Quel point commun y-a-t-il entre grammaire et grand-mère ?",
+    "answer": "Les deux ont des règles douloureuses."
+  },
+  {
+    "id": 2615,
+    "type": "global",
+    "joke": "Qu'est-ce qu'un western ?",
+    "answer": "Un film à deux balles où le méchant s'en prend une."
+  },
+  {
+    "id": 2616,
+    "type": "dark",
+    "joke": "Je ne veux pas que les gens soient racistes.",
+    "answer": "C'est pour ça que je renvoies les arabes dans leur pays."
+  },
+  {
+    "id": 2617,
+    "type": "global",
+    "joke": "Comment appelle-t-on un crime sans représailles ?",
+    "answer": "Un suicide."
+  },
+  {
+    "id": 2618,
+    "type": "dark",
+    "joke": "Que fait-on lorsqu'un bébé s'étouffe ?",
+    "answer": "On recule de quelques centimètres."
+  },
+  {
+    "id": 2619,
+    "type": "global",
+    "joke": "Que dit-on de Vladimir Poutine en visite d'État en Égypte ?",
+    "answer": "Que c'est un papyrus."
+  },
+  {
+    "id": 2620,
+    "type": "dark",
+    "joke": "Une occupation sert à faire passer le temps.",
+    "answer": "Sauf si elle est allemande."
+  },
+  {
+    "id": 2621,
+    "type": "dark",
+    "joke": "Avant j'étais raciste, mais j'ai perdu mon rasime.",
+    "answer": "Un arabe me l'a volé."
+  },
+  {
+    "id": 2622,
+    "type": "dark",
+    "joke": "Quel est le point commun entre les cigarettes et les arabes ?",
+    "answer": "C'est dangereux, et pourtant ils sont partout..."
+  },
+  {
+    "id": 2623,
+    "type": "global",
+    "joke": "Les tampons, c'est comme la magie.",
+    "answer": "Si on voit la ficelle, c'est foutu."
+  },
+  {
+    "id": 2624,
+    "type": "limit",
+    "joke": "Quel est le point commun entre un flirt et la diplomatie ?",
+    "answer": "Les deux exigent une bonne connaissance des langues et beaucoup de doigté."
+  },
+  {
+    "id": 2625,
+    "type": "global",
+    "joke": "Qu'est ce que la ménopause ?",
+    "answer": "Une poursuite du jeu sans règles."
+  },
+  {
+    "id": 2626,
+    "type": "global",
+    "joke": "Si tu rentres chez quelqu'un et qu'il a un drapeau de l'URSS accroché au mur,",
+    "answer": "C'est un énorme Red Flag."
+  },
+  {
+    "id": 2627,
+    "type": "limit",
+    "joke": "Quel est la différence entre un footballeur, un handballeur, et un pédophile ?",
+    "answer": "Le footballeur marque du pied, le handballeur de la main, et le pédophile Marc Dutroux"
+  },
+  {
+    "id": 2628,
+    "type": "global",
+    "joke": "Pourquoi y-a-t-il plus de baptêmes que de mariages en Italie ?",
+    "answer": "En Italie on aime plus les parrains que les témoins."
+  },
+  {
+    "id": 2629,
+    "type": "global",
+    "joke": "Que dit un mexicain quand il fait la vaisselle ?",
+    "answer": "C'est salsa"
+  },
+  {
+    "id": 2630,
+    "type": "dark",
+    "joke": "L'eau résout vraiment tout les problèmes. Tu veux maigrir ? Bois de l'eau. Tu veux une belle peau ? Bois de l'eau.",
+    "answer": "Tu n'aimes pas quelqu'un ? Noie le."
+  },
+  {
+    "id": 2631,
+    "type": "dark",
+    "joke": "Quel est la voiture préférée des arabes ?",
+    "answer": "Les voitures sans surveillances."
+  },
+  {
+    "id": 2632,
+    "type": "global",
+    "joke": "Dans Star Wars on ne dit plus \"Que la force soit avec toi\".",
+    "answer": "On dit \"Que Chuck Norris soit avec toi\"."
+  },
+  {
+    "id": 2633,
+    "type": "global",
+    "joke": "Chuck Norris ne chasse pas.",
+    "answer": "Les animaux se rendent."
+  },
+  {
+    "id": 2634,
+    "type": "global",
+    "joke": "Un jour, un cheval a dit qu'il pouvait encaisser un uppercut de Chuck Norris.",
+    "answer": "C'était le jour où les girafes ont été créés."
+  },
+  {
+    "id": 2635,
+    "type": "global",
+    "joke": "Les monstres sous ton lit ne sont pas là pour te faire peur.",
+    "answer": "Ils se cachent de Chuck Norris..."
+  },
+  {
+    "id": 2636,
+    "type": "global",
+    "joke": "Quand Chuck Norris lis un livre...",
+    "answer": "c'est le livre qui s'instruit."
+  },
+  {
+    "id": 2637,
+    "type": "dev",
+    "joke": "Un développeur non-binaire qui code, ça ferait quoi ?",
+    "answer": "Ça causerait des bugs."
+  },
+  {
+    "id": 2638,
+    "type": "beauf",
+    "joke": "Pourquoi les fonctionnaires ne regardent jamais par la fenêtre le matin ?",
+    "answer": "Pour avoir quelque chose à faire l’après-midi !"
+  },
+  {
+    "id": 2639,
+    "type": "global",
+    "joke": "Chuck Norris peut surfer...",
+    "answer": "sur une vague de chaleur."
+  },
+  {
+    "id": 2640,
+    "type": "global",
+    "joke": "Quand Chuck Norris frotte une lampe et qu'un génie en sort...",
+    "answer": "Le génie a droit à 3 voeux."
+  },
+  {
+    "id": 2641,
+    "type": "global",
+    "joke": "Quand Chuck Norris s’aperçoit qu’il a sauté de l’avion sans parachute...",
+    "answer": "il remonte le chercher."
+  },
+  {
+    "id": 2642,
+    "type": "global",
+    "joke": "Si Chuck Norris dort la lumière allumée...",
+    "answer": "c’est parce que le noir a peur de lui."
+  },
+  {
+    "id": 2643,
+    "type": "dark",
+    "joke": "Les enfants c'est comme les clés.",
+    "answer": "Quand tu les perds tu en fais d'autres."
+  },
+  {
+    "id": 2644,
+    "type": "dark",
+    "joke": "J'appellerai ma fille coupe du monde.",
+    "answer": "Pour qu'aucun africain ne la soulève."
+  },
+  {
+    "id": 2645,
+    "type": "global",
+    "joke": "Que fait une souris heureuse ?",
+    "answer": "Elle souris."
+  },
+  {
+    "id": 2646,
+    "type": "dark",
+    "joke": "Voici en quelques lignes le concept du billard :",
+    "answer": "Il s'agit d'un blanc qui met hors jeu des rouges, des jaunes et un noir."
+  },
+  {
+    "id": 2647,
+    "type": "dark",
+    "joke": "Pourquoi les échecs est un jeu encore très populaire ?",
+    "answer": "Car c'est un des seuls où l'on peut faire se battre des blancs contre des noirs sans être sanctionné."
+  },
+  {
+    "id": 2648,
+    "type": "beauf",
+    "joke": "Pourquoi les femmes n’ont pas besoin de permis ?",
+    "answer": "Car il n’y a pas de route entre la machine à laver et la cuisine."
+  },
+  {
+    "id": 2649,
+    "type": "dark",
+    "joke": "Que faut-il faire lorsque votre lave-vaisselle est cassé ?",
+    "answer": "Vous lui donnez une fessée et vous lui dites d'aller travailler."
+  },
+  {
+    "id": 2650,
+    "type": "global",
+    "joke": "Quel est le verbe préféré des Portugais ?",
+    "answer": "Murmurer"
+  },
+  {
+    "id": 2651,
+    "type": "global",
+    "joke": "Que dit un coq à une poule pour tenter de l'aborder ?",
+    "answer": "\"T'as de beaux oeufs, tu sais ?\""
+  },
+  {
+    "id": 2652,
+    "type": "dark",
+    "joke": "Les compagnies ne reçoivent qu'une seule étoile quand leurs produits ne fonctionnent pas.",
+    "answer": "Sauf les sociétés fabriquant des parachutes."
+  },
+  {
+    "id": 2653,
+    "type": "global",
+    "joke": "Qu'est-ce qui est pareil entre une bière congelée, une pizza carbonisées et une femme enceinte ?",
+    "answer": "Un gars la sortie trop tard."
+  },
+  {
+    "id": 2654,
+    "type": "dark",
+    "joke": "Pourquoi il n'y a-t-il pas de femmes en F1 ?",
+    "answer": "Sécurité routière, tous touchés, tous concernés."
+  },
+  {
+    "id": 2655,
+    "type": "dark",
+    "joke": "Quel est la différence entre un juif et un noir ?",
+    "answer": "Seulement un \"H\" : le premier va au camp, le deuxième va au champ."
+  },
+  {
+    "id": 2656,
+    "type": "dark",
+    "joke": "Qui écrit cent fautes, mets que paire sonne qu'on prend ?",
+    "answer": "Un dix lexcique..."
+  },
+  {
+    "id": 2657,
+    "type": "global",
+    "joke": "Qu'est-ce qu'un lombric qui voit de près comme de loin ?",
+    "answer": "C'est un ver progressif !"
+  },
+  {
+    "id": 2658,
+    "type": "dark",
+    "joke": "Quelle est la différence entre la science et la religion ?",
+    "answer": "La science construit des avions et des immeubles tandis que la religion les fait se rencontrer."
+  },
+  {
+    "id": 2659,
+    "type": "global",
+    "joke": "Pourquoi quand tu es carnivore t'as tout ?",
+    "answer": "Parce que quand t'es végé t'as rien."
+  },
+  {
+    "id": 2660,
+    "type": "dark",
+    "joke": "Pourquoi ne faut-il pas faire de blague à un arabe ?",
+    "answer": "Car il risquerait d'exploser de rire."
+  },
+  {
+    "id": 2661,
+    "type": "global",
+    "joke": "Je ne suis pas schizophrène.",
+    "answer": "Mais moi si."
+  },
+  {
+    "id": 2662,
+    "type": "dev",
+    "joke": "Mon humour est tellement noir...",
+    "answer": "... que son code hexadécimal est #000000."
+  },
+  {
+    "id": 2663,
+    "type": "global",
+    "joke": "Les moulins...",
+    "answer": "C'était mieux à vent ?"
+  },
+  {
+    "id": 2664,
+    "type": "dark",
+    "joke": "Quel est la phrase préféré des pédophiles ?",
+    "answer": "Quand y'a du poil c'est légal, quand y'en a pas c'est un régale"
+  },
+  {
+    "id": 2665,
+    "type": "dark",
+    "joke": "Quel est le point commun entre un prêtre et un professeur ?",
+    "answer": "Ils aiment tous les deux la rentrée."
+  },
+  {
+    "id": 2666,
+    "type": "global",
+    "joke": "Que fait de l'eau énervée en URSS ?",
+    "answer": "Elle cri \"Staline\"."
+  },
+  {
+    "id": 2667,
+    "type": "dark",
+    "joke": "Quand un juif me dit qu'il fume.",
+    "answer": "Je ne sais pas dans quel sens le prendre…"
+  },
+  {
+    "id": 2668,
+    "type": "dark",
+    "joke": "C'est un juif énervé à un autre :",
+    "answer": "Je vais te fumer !"
+  },
+  {
+    "id": 2669,
+    "type": "dark",
+    "joke": "Un psychologue à un prêtre : \"- Qu'est-ce qui vous empêche d'être vous même ?",
+    "answer": "- Le code pénal.\""
+  },
+  {
+    "id": 2670,
+    "type": "global",
+    "joke": "Pourquoi les plongeurs ne font jamais de blagues sous l’eau ?",
+    "answer": "Parce qu’elles sont trop profondes !"
+  },
+  {
+    "id": 2671,
+    "type": "global",
+    "joke": "Je veux devenir un psychologue pour coquillettes et macaronis.",
+    "answer": "Je veux devenir un psy qu’aux pâtes."
+  },
+  {
+    "id": 2672,
+    "type": "dark",
+    "joke": "Un homme à une femme arabe :",
+    "answer": "\"Wow, t'es vraiment une bombe !\""
+  },
+  {
+    "id": 2673,
+    "type": "global",
+    "joke": "Pourquoi les squelettes ne se battent jamais entre eux ?",
+    "answer": "Parce qu’ils n’ont pas les tripes !"
+  },
+  {
+    "id": 2674,
+    "type": "dark",
+    "joke": "Quel est le point commun entre les petites filles et les bouteilles de vin ?",
+    "answer": "Les meilleures ont douze d'âge et sont dans ma cave."
+  },
+  {
+    "id": 2675,
+    "type": "global",
+    "joke": "Ou les coqs vont-il draguer ?",
+    "answer": "A Liverpool ! Là-bas les poules sont fraîches"
+  },
+  {
+    "id": 2676,
+    "type": "global",
+    "joke": "Quel est le comble pour un athé ?",
+    "answer": "D'être inculte."
+  },
+  {
+    "id": 2677,
+    "type": "dark",
+    "joke": "Comment appelle-t'on une prostituée soviétique ?",
+    "answer": "Cumrade."
+  },
+  {
+    "id": 2678,
+    "type": "dark",
+    "joke": "Si un schizophrène, ...",
+    "answer": "... l'autre accélère ?"
   }
 ]
